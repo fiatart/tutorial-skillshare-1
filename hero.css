@@ -1,0 +1,36 @@
+body{ 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+header{
+    background-color: rgb(56, 70, 35);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header h1{ color: antiquewhite;
+font-size: 50px;}
+
+header img {border-radius: 150px;
+border: 10px solid white;}
+
+main {max-width: 800px;
+margin: 0 auto;
+padding: 0 20px;}
+
+main img {max-width: 100%;}
+
+h2{font-size: 35px;
+color: darkolivegreen;
+margin: 40px 0 10px;}
+
+a{color: darkslategrey;}
+a:hover{color: chartreuse;}
+
+footer{text-align: center;}
+
+p.caption{color: grey;
+font-style: italic;
+margin-top: 0;}
